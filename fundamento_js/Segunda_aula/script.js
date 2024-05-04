@@ -7,7 +7,7 @@
 //console.log(area)
 
 let altura = 5;
-let comprimento 7;
+let comprimento = 7;
 let forma = 'retangulo';
 let area; //precisa ser declarado antes de ser usada
 
@@ -17,4 +17,4 @@ if (formula === 'retangulo'){
     area = altura * comprimento / 2;
 }
 
-area = altura *
+area = altura * comprimento;
